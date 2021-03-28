@@ -24,17 +24,17 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="boot" width="26px" src="img/boot.png" />
-<img align="left" alt="boot" width="26px" src="img/burp.png" />
-<img align="left" alt="boot" width="26px" src="img/django.png" />
-<img align="left" alt="boot" width="26px" src="img/kali.png" />
-<img align="left" alt="boot" width="26px" src="img/laravel.png" />
-<img align="left" alt="boot" width="26px" src="img/metasploit.png" />
-<img align="left" alt="boot" width="26px" src="img/nmap.png" />
-<img align="left" alt="boot" width="26px" src="img/php.png" />
-<img align="left" alt="boot" width="26px" src="img/python.jpg" />
-<img align="left" alt="boot" width="26px" src="img/snort.svg" />
-<img align="left" alt="boot" width="26px" src="img/vuejs.svg" />
-<img align="left" alt="boot" width="26px" src="img/wireshark.png" />
+<img align="left" alt="burp" width="26px" src="img/burp.png" />
+<img align="left" alt="django" width="26px" src="img/django.png" />
+<img align="left" alt="kali" width="26px" src="img/kali.png" />
+<img align="left" alt="laravel" width="26px" src="img/laravel.png" />
+<img align="left" alt="metasploit" width="26px" src="img/metasploit.png" />
+<img align="left" alt="nmap" width="26px" src="img/nmap.png" />
+<img align="left" alt="php" width="26px" src="img/php.png" />
+<img align="left" alt="python" width="26px" src="img/python.jpg" />
+<img align="left" alt="snort" width="26px" src="img/snort.svg" />
+<img align="left" alt="vuejs" width="26px" src="img/vuejs.svg" />
+<img align="left" alt="wireshark" width="26px" src="img/wireshark.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
