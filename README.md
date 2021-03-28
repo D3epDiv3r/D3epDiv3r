@@ -32,7 +32,7 @@
 <img align="left" alt="php" width="26px" src="img/php.png" />
 <img align="left" alt="python" width="26px" src="img/python.jpg" />
 <img align="left" alt="snort" width="26px" src="img/snort.svg" />
-<img align="left" alt="vuejs" width="26px" src="img/vuejs.svg" />
+<img align="left" alt="vuejs" width="26px" src="img/vuejs.png" />
 <img align="left" alt="wireshark" width="26px" src="img/wireshark.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
