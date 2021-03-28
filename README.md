@@ -25,7 +25,6 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="boot" width="26px" src="img/boot.png" />
 <img align="left" alt="burp" width="26px" src="img/burp.png" />
-<img align="left" alt="django" width="26px" src="img/django.png" />
 <img align="left" alt="kali" width="26px" src="img/kali.png" />
 <img align="left" alt="laravel" width="26px" src="img/laravel.png" />
 <img align="left" alt="metasploit" width="26px" src="img/metasploit.png" />
