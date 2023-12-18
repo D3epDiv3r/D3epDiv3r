@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/D3epDiv3r?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/D3epDiv3r)
 
-## I'm an Ethical Hacking and Cybersecurity Student at Coventry University, Full Stack Web Developer, and a Technological Enthusiast
+## I'm an Ethical Hacking and Cybersecurity Student, Full Stack Web Developer, and a Technological Enthusiast
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other like-minded individuals
